@@ -8,8 +8,8 @@ This dataset contains information about trap correctness from a study conducted.
 
 ## Dataset Information
 The dataset consists of the following columns:
-- `HIT_ID`: Identifier for the Human Intelligence Task (HIT).
-- `assignment_ID`: Identifier for the assignment.
+- `HIT_ID`: Identifier for each Human Intelligence Task (HIT).
+- `assignment_ID`: Identifier for each assignment.
 - `worker_ID`: Identifier for the worker (from MTurk).%removed to anonymize the dataset
 - `worker_index`: Index assigned to each unique worker.
 - `question_type`: Type of question.
