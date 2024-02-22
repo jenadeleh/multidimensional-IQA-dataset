@@ -7,7 +7,7 @@ This dataset contains information about trap correctness from a study conducted.
 - `MD_IQA_Crowdsourcing_results_all_assignments.csv`: CSV file containing the dataset in table format (anonymized).
 
 ## Dataset Information
-The dataset consists of the following columns:
+The dataset consists of the following columns for each question (triplet):
 - `HIT_ID`: Identifier for each Human Intelligence Task (HIT).
 - `assignment_ID`: Identifier for each assignment.
 - `worker_ID`: Identifier for each worker (from MTurk).%removed to anonymize the dataset
