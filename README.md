@@ -4,7 +4,7 @@
 This dataset contains information about trap correctness from a study conducted. The dataset is provided in a CSV  format.
 
 ## Contents
-- `MD_IQA_Crowdsourcing_results_all_assignments.csv`: CSV file containing the dataset in table format (anonymized).
+- `MD_IQA_Crowdsourcing_results_all_assignments.csv`: A CSV file containing the dataset in table format (anonymized).
 
 ## Dataset Information
 The dataset consists of the following columns for each question (triplet):
