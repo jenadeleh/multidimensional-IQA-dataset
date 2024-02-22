@@ -1,4 +1,4 @@
-# Example Dataset README
+# Dataset README
 
 ## Description
 This dataset contains information about trap correctness from a study conducted. The dataset is provided in a CSV  format.
