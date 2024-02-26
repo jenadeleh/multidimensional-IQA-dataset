@@ -11,7 +11,7 @@ The dataset consists of the following columns for each question (triplet):
 - `HIT_ID`: Identifier for each Human Intelligence Task (HIT).
 - `assignment_ID`: Identifier for each assignment.
 - `worker_ID`: Identifier for each worker (from MTurk).%removed to anonymize the dataset
-- `worker_index`: Index assigned to each unique worker.
+- `worker_index`: Unique index assigned to each unique worker_ID.
 - `question_type`: Type of question.
 - `source`: Source image name (ID).
 - `left_dist`: Type of the distortion of the left image.
@@ -23,7 +23,7 @@ The dataset consists of the following columns for each question (triplet):
 - `decision`: participant's decision
 - `decision_time`: Time taken form image display until the participant decision.
 - `trap_correct`: Number of correct questions per assignment (there are 2 trap questions per assignment).
-- `uum_undecided`: Number of undecided question per assignment.
+- `num_undecided`: Number of undecided question per assignment.
 
 
 ## Usage
