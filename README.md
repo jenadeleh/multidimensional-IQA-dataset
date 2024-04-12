@@ -15,7 +15,7 @@ This dataset contains information about trap correctness from a study conducted.
   - MD_IQA_Crowdsourcing_results_rejected_818_assignments.csv
 - **Cleansing details:** We excluded 818 assignments due to either the failure of workers to correctly answer a trap question or not answering three or more questions within the 8-second response time. 
 - **Remaining data:** After data cleansing, 49,952 responses remain, covering 6,252 study questions and 696 trap questions, totaling 6,948 unique triplets.
-- ** Note:** We also removed 259 triplets with 'no decision' (workers didn't answer them within 8 seconds response time) before the data analysis. The remaining 49,693 responses to 6,948 unique triplets were used for data analysis.
+- **Note:** We also removed 259 triplets with 'no decision' (workers didn't answer them within 8 seconds response time) before the data analysis. The remaining 49,693 responses to 6,948 unique triplets were used for data analysis.
 
 ## CSV file columns 
 The CSV file consists of the following columns for each question (triplet):
